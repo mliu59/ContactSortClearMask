@@ -1,0 +1,57 @@
+Number of Keywords Imported: 395
+Number of Contact Entries Imported: 14492
+Number of Contact Entries Processed: 7878
+Number of Pre-processed Contact Entries: 3558
+Percent of Contacts Updated: 54.36%
+Percent of Contacts Pre-Filled: 24.55%
+
+Field/Industry Counts
+Childcare: 534, 3.68%;
+Legal: 81, 0.56%;
+Non-essential business (cosmetology & beauty): 130, 0.9%;
+Humanitarian: 14, 0.1%;
+Advocacy: 84, 0.58%;
+School (non-childcare): 2641, 18.22%;
+Interpreting: 619, 4.27%;
+Midwife/OB-GYN: 19, 0.13%;
+Surgery: 72, 0.5%;
+Essential - Grocery & Retail & etc.: 264, 1.82%;
+Behavioral health (therapy & mental health): 983, 6.78%;
+Religious organization: 107, 0.74%;
+Dental: 145, 1%;
+Audiology: 506, 3.49%;
+Construction/manufacturing: 83, 0.57%;
+Immunosuppressed: 68, 0.47%;
+Cystic Fibrosis: 10, 0.07%;
+Government: 450, 3.11%;
+Entertainment/marketing: 97, 0.67%;
+Speech Language Pathologist: 1115, 7.69%;
+Hospitality/hotels: 30, 0.21%;
+Canada: 214, 1.48%;
+Senior Citizens: 335, 2.31%;
+Developmental disabilities (autism & learning disorders): 463, 3.19%;
+Emergency Room: 19, 0.13%;
+Healthcare: 935, 6.45%;
+Pediatrics - healthcare: 348, 2.4%;
+NHS/UK: 248, 1.71%;
+Deaf and Hard of Hearing: 2436, 16.81%;
+Dementia: 70, 0.48%;
+No Desig. Field/Industry: 4760, 32.85%
+
+Person Type Counts
+Clinic Administrator: 73, 0.5%;
+Patient Advocate: 33, 0.23%;
+Provider - Hospital: 230, 1.59%;
+Patient: 145, 1%;
+Provider - Single: 589, 4.06%;
+Vendor: 25, 0.17%;
+Hospital Administrator: 76, 0.52%;
+Provider - Clinic: 183, 1.26%;
+Caretaker: 57, 0.39%;
+Purchasing: 919, 6.34%;
+Distributor: 142, 0.98%;
+Sales: 95, 0.66%;
+Value Analysis Committee: 7, 0.05%;
+Investor: 10, 0.07%;
+Press: 17, 0.12%;
+No Desig. Person Type: 11965, 82.56%
